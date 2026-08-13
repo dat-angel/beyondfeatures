@@ -28,6 +28,7 @@ This repository contains assets, documentation, and resources for the Beyond Fea
 - **[The Discovery Grid (agent-mediated buying)](resources/discovery-grid-agent-mediated-buying.md)** — two-axis GTM view: you finding buyers vs agents finding you; weekly prompts and a five-minute “invisible startup” check.
 - **[Trust Debt scorecard (startups)](resources/trust-debt-scorecard-startups.md)** — security trust + market trust; 0–2 scoring to /20; interpretation bands (with [Amber Bennoui](https://www.linkedin.com/in/amber-bennoui/), Jiffy Labs).
 - **[90-day trust playbook](resources/trust-debt-90-day-playbook.md)** — sequenced paydown plan (30 / 60 / 90) paired with the scorecard.
+- **[CFP Tracker 2026–2027](resources/cfp-tracker-2026.md)** — security, AI, and developer conference CFPs, plus events with no public submission path.
 
 ## Connect
 
